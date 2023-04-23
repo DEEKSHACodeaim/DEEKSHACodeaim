@@ -1,6 +1,6 @@
 - 👋 Hey there,This is Deeksha Jatangi
 - 👀 I’m currently persuing my B-tech degree in Computer Science at PES University
-- 🌱 I’m currently interested in machine learning and deep learning
+- 🌱 I’m interested in machine learning and deep learning
 - 💞️ I’m looking ahead in collabarating in projects and research in the above topics and would be glad to be a part of one
 - 📫 Reach me on linkedin.com/in/deeksha-jatangi-068409217
 <!---
